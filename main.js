@@ -1,3 +1,7 @@
-const a = 10
+const number = 10
 
-console.log(a);
+console.log(number);
+
+let number2 = 999
+
+console.log(number2)
